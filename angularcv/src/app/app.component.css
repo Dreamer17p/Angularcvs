@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.line {
+    background-color: #444444;
+    width: 90%;
+    height: 2px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 120px;
+    border-radius: 20px;
+}
